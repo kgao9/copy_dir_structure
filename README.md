@@ -10,3 +10,5 @@ If anyone else has a convuluted directory structure that they don't want to brea
 are right, they can now use this code. :D
 
 Let me know if there are any bugs. Took me bout 30 minutes to write, so there are probably cases I haven't thought of.
+
+Run with python copy_dir.py. Sorry no argparse commands.
